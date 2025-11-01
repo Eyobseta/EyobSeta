@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyob Seta</h1>
+<h1 align="center">Hi, I'm Eyob Seta</h1>
 <h3 align="center">Turning Ideas Into Web Applications | Full-Stack Developer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 About Me
-- I’m a **Full-Stack Web Developer** passionate about turning ideas into web applications.  
+- I’m a **Creative Developer** passionate about turning ideas into web applications.  
 - Currently building **MyBacktest**, a platform for Forex traders to manage strategies and pattern data.  
 - I love **learning new technologies**, solving problems, and crafting seamless user experiences.  
 
@@ -57,6 +57,10 @@
   <a href="https://www.youtube.com/c/@eyobsolutions" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30"/></a>
   <a href="https://leetcode.com/u/eyob_kt/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a>
   <a href="mailto:eyobseta50@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="30" height="30"/></a>
+  <a href="https://t.me/eyobseta50" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" width="30" height="30"/>
+</a>
+
 </p>
 
 ---
